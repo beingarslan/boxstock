@@ -1,0 +1,704 @@
+{
+  "resources/images/Geverifieerd.svg": {
+    "file": "assets/Geverifieerd.9cc61647.svg",
+    "src": "resources/images/Geverifieerd.svg"
+  },
+  "resources/images/Group.svg": {
+    "file": "assets/Group.100864d6.svg",
+    "src": "resources/images/Group.svg"
+  },
+  "resources/images/SEE ALL.svg": {
+    "file": "assets/SEE ALL.80899f14.svg",
+    "src": "resources/images/SEE ALL.svg"
+  },
+  "resources/images/Nieuw en ongedragen.svg": {
+    "file": "assets/Nieuw en ongedragen.7ed2326d.svg",
+    "src": "resources/images/Nieuw en ongedragen.svg"
+  },
+  "resources/images/Schermafbeelding 2022-09-13 om 12.13 2.png": {
+    "file": "assets/Schermafbeelding 2022-09-13 om 12.13 2.8d430cd5.png",
+    "src": "resources/images/Schermafbeelding 2022-09-13 om 12.13 2.png"
+  },
+  "resources/images/Vector.svg": {
+    "file": "assets/Vector.1a2f7699.svg",
+    "src": "resources/images/Vector.svg"
+  },
+  "resources/images/Safegrail2.png": {
+    "file": "assets/Safegrail2.8f84fcfb.png",
+    "src": "resources/images/Safegrail2.png"
+  },
+  "resources/images/Safegrail.png": {
+    "file": "assets/Safegrail.d8da15bc.png",
+    "src": "resources/images/Safegrail.png"
+  },
+  "resources/images/Verzending-text.svg": {
+    "file": "assets/Verzending-text.2a867387.svg",
+    "src": "resources/images/Verzending-text.svg"
+  },
+  "resources/images/WhatsApp.svg": {
+    "file": "assets/WhatsApp.c960fed6.svg",
+    "src": "resources/images/WhatsApp.svg"
+  },
+  "resources/images/avatar.png": {
+    "file": "assets/avatar.32d0a53c.png",
+    "src": "resources/images/avatar.png"
+  },
+  "resources/images/buy-card-img.png": {
+    "file": "assets/buy-card-img.9f7eb0bd.png",
+    "src": "resources/images/buy-card-img.png"
+  },
+  "resources/images/basket.svg": {
+    "file": "assets/basket.ff58a8aa.svg",
+    "src": "resources/images/basket.svg"
+  },
+  "resources/images/delete.svg": {
+    "file": "assets/delete.9f040084.svg",
+    "src": "resources/images/delete.svg"
+  },
+  "resources/images/flacon_wit_01 1.png": {
+    "file": "assets/flacon_wit_01 1.6597a41b.png",
+    "src": "resources/images/flacon_wit_01 1.png"
+  },
+  "resources/images/buy-card.svg": {
+    "file": "assets/buy-card.d14fd43c.svg",
+    "src": "resources/images/buy-card.svg"
+  },
+  "resources/images/email.svg": {
+    "file": "assets/email.46639f25.svg",
+    "src": "resources/images/email.svg"
+  },
+  "resources/images/footer-Group5.svg": {
+    "file": "assets/footer-Group5.d25298df.svg",
+    "src": "resources/images/footer-Group5.svg"
+  },
+  "resources/images/footer-logo.svg": {
+    "file": "assets/footer-logo.451cad18.svg",
+    "src": "resources/images/footer-logo.svg"
+  },
+  "resources/images/group-logo-hear.png": {
+    "file": "assets/group-logo-hear.194b6d1e.png",
+    "src": "resources/images/group-logo-hear.png"
+  },
+  "resources/images/gaver-img.svg": {
+    "file": "assets/gaver-img.662830c3.svg",
+    "src": "resources/images/gaver-img.svg"
+  },
+  "resources/images/crose-img.svg": {
+    "file": "assets/crose-img.fb95c0c7.svg",
+    "src": "resources/images/crose-img.svg"
+  },
+  "resources/images/cleaning-services.jpg": {
+    "file": "assets/cleaning-services.6fcaa1a1.jpg",
+    "src": "resources/images/cleaning-services.jpg"
+  },
+  "resources/images/image 21.svg": {
+    "file": "assets/image 21.a573a256.svg",
+    "src": "resources/images/image 21.svg"
+  },
+  "resources/images/invoice.svg": {
+    "file": "assets/invoice.f2f0ad71.svg",
+    "src": "resources/images/invoice.svg"
+  },
+  "resources/images/jordan.png": {
+    "file": "assets/jordan.23dbda1f.png",
+    "src": "resources/images/jordan.png"
+  },
+  "resources/images/logo.svg": {
+    "file": "assets/logo.da9b9095.svg",
+    "src": "resources/images/logo.svg"
+  },
+  "resources/images/logo-b2b.svg": {
+    "file": "assets/logo-b2b.12b4951e.svg",
+    "src": "resources/images/logo-b2b.svg"
+  },
+  "resources/images/minor.svg": {
+    "file": "assets/minor.789513ea.svg",
+    "src": "resources/images/minor.svg"
+  },
+  "resources/images/niow-img.svg": {
+    "file": "assets/niow-img.9a6ed025.svg",
+    "src": "resources/images/niow-img.svg"
+  },
+  "resources/images/order-1.svg": {
+    "file": "assets/order-1.70fd5ca6.svg",
+    "src": "resources/images/order-1.svg"
+  },
+  "resources/images/logout.svg": {
+    "file": "assets/logout.84e70b56.svg",
+    "src": "resources/images/logout.svg"
+  },
+  "resources/images/mint-condition.svg": {
+    "file": "assets/mint-condition.4aaed3c8.svg",
+    "src": "resources/images/mint-condition.svg"
+  },
+  "resources/images/product-delivery.svg": {
+    "file": "assets/product-delivery.96fb9ab4.svg",
+    "src": "resources/images/product-delivery.svg"
+  },
+  "resources/images/products-group-img.png": {
+    "file": "assets/products-group-img.90a21341.png",
+    "src": "resources/images/products-group-img.png"
+  },
+  "resources/images/products-img.png": {
+    "file": "assets/products-img.a98fd49a.png",
+    "src": "resources/images/products-img.png"
+  },
+  "resources/images/products-list.png": {
+    "file": "assets/products-list.b25ebcb3.png",
+    "src": "resources/images/products-list.png"
+  },
+  "resources/images/profile.svg": {
+    "file": "assets/profile.ae7d963b.svg",
+    "src": "resources/images/profile.svg"
+  },
+  "resources/images/re.svg": {
+    "file": "assets/re.600484f9.svg",
+    "src": "resources/images/re.svg"
+  },
+  "resources/images/search-icon.svg": {
+    "file": "assets/search-icon.866715e1.svg",
+    "src": "resources/images/search-icon.svg"
+  },
+  "resources/images/see-all.svg": {
+    "file": "assets/see-all.cf8f01a0.svg",
+    "src": "resources/images/see-all.svg"
+  },
+  "resources/images/sell-card-img.svg": {
+    "file": "assets/sell-card-img.e183b582.svg",
+    "src": "resources/images/sell-card-img.svg"
+  },
+  "resources/images/snipes.svg": {
+    "file": "assets/snipes.fc0dd58d.svg",
+    "src": "resources/images/snipes.svg"
+  },
+  "resources/images/toggle-menu.svg": {
+    "file": "assets/toggle-menu.a199a041.svg",
+    "src": "resources/images/toggle-menu.svg"
+  },
+  "resources/images/victor2-img.svg": {
+    "file": "assets/victor2-img.4ef4c230.svg",
+    "src": "resources/images/victor2-img.svg"
+  },
+  "resources/images/visibale-damage.svg": {
+    "file": "assets/visibale-damage.d49ce4b5.svg",
+    "src": "resources/images/visibale-damage.svg"
+  },
+  "resources/images/white-shous-img.svg": {
+    "file": "assets/white-shous-img.b781d1a6.svg",
+    "src": "resources/images/white-shous-img.svg"
+  },
+  "resources/css/fonts/TTCommons-Black.woff2": {
+    "file": "assets/TTCommons-Black.87daaa42.woff2",
+    "src": "resources/css/fonts/TTCommons-Black.woff2"
+  },
+  "resources/css/fonts/TTCommons-BlackItalic.woff2": {
+    "file": "assets/TTCommons-BlackItalic.36817ba2.woff2",
+    "src": "resources/css/fonts/TTCommons-BlackItalic.woff2"
+  },
+  "resources/css/fonts/TTCommons-BoldItalic.woff2": {
+    "file": "assets/TTCommons-BoldItalic.0ab7b125.woff2",
+    "src": "resources/css/fonts/TTCommons-BoldItalic.woff2"
+  },
+  "resources/css/fonts/TTCommons-DemiBold.woff2": {
+    "file": "assets/TTCommons-DemiBold.0e70bc75.woff2",
+    "src": "resources/css/fonts/TTCommons-DemiBold.woff2"
+  },
+  "resources/css/fonts/TTCommons-ExtraBoldItalic.woff2": {
+    "file": "assets/TTCommons-ExtraBoldItalic.ec64be1c.woff2",
+    "src": "resources/css/fonts/TTCommons-ExtraBoldItalic.woff2"
+  },
+  "resources/css/fonts/TTCommons-ExtraBold.woff2": {
+    "file": "assets/TTCommons-ExtraBold.77c23d28.woff2",
+    "src": "resources/css/fonts/TTCommons-ExtraBold.woff2"
+  },
+  "resources/css/fonts/TTCommons-Italic.woff2": {
+    "file": "assets/TTCommons-Italic.e8cca90e.woff2",
+    "src": "resources/css/fonts/TTCommons-Italic.woff2"
+  },
+  "resources/css/fonts/TTCommons-Bold.woff2": {
+    "file": "assets/TTCommons-Bold.6d170014.woff2",
+    "src": "resources/css/fonts/TTCommons-Bold.woff2"
+  },
+  "resources/css/fonts/TTCommons-DemiBoldItalic.woff2": {
+    "file": "assets/TTCommons-DemiBoldItalic.a257d5cc.woff2",
+    "src": "resources/css/fonts/TTCommons-DemiBoldItalic.woff2"
+  },
+  "resources/css/fonts/TTCommons-ExtraLightItalic.woff2": {
+    "file": "assets/TTCommons-ExtraLightItalic.24777470.woff2",
+    "src": "resources/css/fonts/TTCommons-ExtraLightItalic.woff2"
+  },
+  "resources/css/fonts/TTCommons-LightItalic.woff2": {
+    "file": "assets/TTCommons-LightItalic.bd730468.woff2",
+    "src": "resources/css/fonts/TTCommons-LightItalic.woff2"
+  },
+  "resources/css/fonts/TTCommons-Light.woff2": {
+    "file": "assets/TTCommons-Light.de9e3f28.woff2",
+    "src": "resources/css/fonts/TTCommons-Light.woff2"
+  },
+  "resources/css/fonts/TTCommons-MediumItalic.woff2": {
+    "file": "assets/TTCommons-MediumItalic.57b238b6.woff2",
+    "src": "resources/css/fonts/TTCommons-MediumItalic.woff2"
+  },
+  "resources/css/fonts/TTCommons-Medium.woff2": {
+    "file": "assets/TTCommons-Medium.ec5a5bf5.woff2",
+    "src": "resources/css/fonts/TTCommons-Medium.woff2"
+  },
+  "resources/css/fonts/TTCommons-Regular.woff2": {
+    "file": "assets/TTCommons-Regular.47b7e5d7.woff2",
+    "src": "resources/css/fonts/TTCommons-Regular.woff2"
+  },
+  "resources/css/fonts/TTCommons-ThinItalic.woff2": {
+    "file": "assets/TTCommons-ThinItalic.c2b7164b.woff2",
+    "src": "resources/css/fonts/TTCommons-ThinItalic.woff2"
+  },
+  "resources/css/fonts/TTCommons-Thin.woff2": {
+    "file": "assets/TTCommons-Thin.6a657189.woff2",
+    "src": "resources/css/fonts/TTCommons-Thin.woff2"
+  },
+  "resources/css/fonts/TTCommons-ExtraLight.woff2": {
+    "file": "assets/TTCommons-ExtraLight.2d64db91.woff2",
+    "src": "resources/css/fonts/TTCommons-ExtraLight.woff2"
+  },
+  "resources/css/fonts/TTCommons-Black.woff": {
+    "file": "assets/TTCommons-Black.50434613.woff",
+    "src": "resources/css/fonts/TTCommons-Black.woff"
+  },
+  "resources/css/fonts/TTCommons-BlackItalic.woff": {
+    "file": "assets/TTCommons-BlackItalic.5232d205.woff",
+    "src": "resources/css/fonts/TTCommons-BlackItalic.woff"
+  },
+  "resources/css/fonts/TTCommons-BoldItalic.woff": {
+    "file": "assets/TTCommons-BoldItalic.b92a2cc0.woff",
+    "src": "resources/css/fonts/TTCommons-BoldItalic.woff"
+  },
+  "resources/css/fonts/TTCommons-ExtraBold.woff": {
+    "file": "assets/TTCommons-ExtraBold.0b60cdb2.woff",
+    "src": "resources/css/fonts/TTCommons-ExtraBold.woff"
+  },
+  "resources/css/fonts/TTCommons-Italic.woff": {
+    "file": "assets/TTCommons-Italic.d5bb4a3c.woff",
+    "src": "resources/css/fonts/TTCommons-Italic.woff"
+  },
+  "resources/css/fonts/TTCommons-DemiBold.woff": {
+    "file": "assets/TTCommons-DemiBold.6504b612.woff",
+    "src": "resources/css/fonts/TTCommons-DemiBold.woff"
+  },
+  "resources/css/fonts/TTCommons-ExtraBoldItalic.woff": {
+    "file": "assets/TTCommons-ExtraBoldItalic.dfce0851.woff",
+    "src": "resources/css/fonts/TTCommons-ExtraBoldItalic.woff"
+  },
+  "resources/css/fonts/TTCommons-Bold.woff": {
+    "file": "assets/TTCommons-Bold.63172c27.woff",
+    "src": "resources/css/fonts/TTCommons-Bold.woff"
+  },
+  "resources/css/fonts/TTCommons-DemiBoldItalic.woff": {
+    "file": "assets/TTCommons-DemiBoldItalic.9e2635c5.woff",
+    "src": "resources/css/fonts/TTCommons-DemiBoldItalic.woff"
+  },
+  "resources/css/fonts/TTCommons-ExtraLightItalic.woff": {
+    "file": "assets/TTCommons-ExtraLightItalic.dc53f7e1.woff",
+    "src": "resources/css/fonts/TTCommons-ExtraLightItalic.woff"
+  },
+  "resources/css/fonts/TTCommons-LightItalic.woff": {
+    "file": "assets/TTCommons-LightItalic.c5d3f578.woff",
+    "src": "resources/css/fonts/TTCommons-LightItalic.woff"
+  },
+  "resources/css/fonts/TTCommons-Light.woff": {
+    "file": "assets/TTCommons-Light.815cddde.woff",
+    "src": "resources/css/fonts/TTCommons-Light.woff"
+  },
+  "resources/css/fonts/TTCommons-Medium.woff": {
+    "file": "assets/TTCommons-Medium.c594637c.woff",
+    "src": "resources/css/fonts/TTCommons-Medium.woff"
+  },
+  "resources/css/fonts/TTCommons-MediumItalic.woff": {
+    "file": "assets/TTCommons-MediumItalic.275e5c37.woff",
+    "src": "resources/css/fonts/TTCommons-MediumItalic.woff"
+  },
+  "resources/css/fonts/TTCommons-Thin.woff": {
+    "file": "assets/TTCommons-Thin.a58dadf3.woff",
+    "src": "resources/css/fonts/TTCommons-Thin.woff"
+  },
+  "resources/css/fonts/TTCommons-Regular.woff": {
+    "file": "assets/TTCommons-Regular.1ba078ec.woff",
+    "src": "resources/css/fonts/TTCommons-Regular.woff"
+  },
+  "resources/css/fonts/TTCommons-ThinItalic.woff": {
+    "file": "assets/TTCommons-ThinItalic.4ab36f0e.woff",
+    "src": "resources/css/fonts/TTCommons-ThinItalic.woff"
+  },
+  "resources/css/fonts/TTCommons-ExtraLight.woff": {
+    "file": "assets/TTCommons-ExtraLight.09c9fd16.woff",
+    "src": "resources/css/fonts/TTCommons-ExtraLight.woff"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.67f4f754.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/views/RegisterView.vue",
+      "resources/js/views/HomeLoggedInView.vue",
+      "resources/js/views/ContactView.vue",
+      "resources/js/views/PublicPosts.vue",
+      "resources/js/views/PostView.vue",
+      "resources/js/views/LoginView.vue",
+      "resources/js/views/Shop.vue",
+      "resources/js/views/ProfileView.vue",
+      "resources/js/views/ProductSingle.vue",
+      "resources/js/views/NotFound.vue",
+      "resources/js/views/VariantsView.vue",
+      "resources/js/views/Admin.vue",
+      "resources/js/views/PostsList.vue",
+      "resources/js/views/ProductList.vue",
+      "resources/js/views/CategoryView.vue",
+      "resources/js/views/BrandsView.vue",
+      "resources/js/views/SizeView.vue",
+      "resources/js/views/Orders.vue",
+      "_toggle-btn.0794e622.js"
+    ],
+    "css": [
+      "assets/app.d908354f.css"
+    ],
+    "assets": [
+      "assets/WhatsApp.c960fed6.svg",
+      "assets/sell-card-img.e183b582.svg",
+      "assets/Safegrail.d8da15bc.png",
+      "assets/Safegrail2.8f84fcfb.png",
+      "assets/jordan.23dbda1f.png",
+      "assets/SEE ALL.80899f14.svg",
+      "assets/cleaning-services.6fcaa1a1.jpg",
+      "assets/logo-b2b.12b4951e.svg",
+      "assets/invoice.f2f0ad71.svg",
+      "assets/avatar.32d0a53c.png",
+      "assets/logout.84e70b56.svg",
+      "assets/footer-logo.451cad18.svg",
+      "assets/footer-Group5.d25298df.svg",
+      "assets/group-logo-hear.194b6d1e.png",
+      "assets/see-all.cf8f01a0.svg",
+      "assets/search-icon.866715e1.svg",
+      "assets/toggle-menu.a199a041.svg"
+    ]
+  },
+  "resources/js/views/RegisterView.vue": {
+    "file": "assets/RegisterView.18320b4b.js",
+    "src": "resources/js/views/RegisterView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_object.051b359d.js",
+      "_sweetalert2.all.83a80c41.js"
+    ]
+  },
+  "_object.051b359d.js": {
+    "file": "assets/object.051b359d.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_sweetalert2.all.83a80c41.js": {
+    "file": "assets/sweetalert2.all.83a80c41.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/HomeLoggedInView.vue": {
+    "file": "assets/HomeLoggedInView.6e810f36.js",
+    "src": "resources/js/views/HomeLoggedInView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_toggle-btn.0794e622.js"
+    ],
+    "css": [
+      "assets/HomeLoggedInView.dc46d5b8.css"
+    ]
+  },
+  "_toggle-btn.0794e622.js": {
+    "file": "assets/toggle-btn.0794e622.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "assets": [
+      "assets/Group.100864d6.svg"
+    ]
+  },
+  "resources/js/views/ContactView.vue": {
+    "file": "assets/ContactView.c186b782.js",
+    "src": "resources/js/views/ContactView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_object.051b359d.js",
+      "_sweetalert2.all.83a80c41.js"
+    ]
+  },
+  "resources/js/views/PublicPosts.vue": {
+    "file": "assets/PublicPosts.3ad51bc6.js",
+    "src": "resources/js/views/PublicPosts.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/PostView.vue": {
+    "file": "assets/PostView.e30239a4.js",
+    "src": "resources/js/views/PostView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/PostView.9f2d69bc.css"
+    ]
+  },
+  "resources/js/views/LoginView.vue": {
+    "file": "assets/LoginView.5dde472d.js",
+    "src": "resources/js/views/LoginView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_object.051b359d.js",
+      "_sweetalert2.all.83a80c41.js"
+    ],
+    "css": [
+      "assets/LoginView.b75960e4.css"
+    ]
+  },
+  "resources/js/views/Shop.vue": {
+    "file": "assets/Shop.823d4cb4.js",
+    "src": "resources/js/views/Shop.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Breadcrumb.ebe6cab1.js"
+    ],
+    "css": [
+      "assets/Shop.e39795c3.css"
+    ]
+  },
+  "_Breadcrumb.ebe6cab1.js": {
+    "file": "assets/Breadcrumb.ebe6cab1.js",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/ProfileView.vue": {
+    "file": "assets/ProfileView.cfa49dc3.js",
+    "src": "resources/js/views/ProfileView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/views/ProductSingle.vue": {
+    "file": "assets/ProductSingle.1459237c.js",
+    "src": "resources/js/views/ProductSingle.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_Breadcrumb.ebe6cab1.js",
+      "_sweetalert2.all.83a80c41.js"
+    ],
+    "css": [
+      "assets/ProductSingle.b4853b0a.css"
+    ],
+    "assets": [
+      "assets/order-1.70fd5ca6.svg",
+      "assets/gaver-img.662830c3.svg",
+      "assets/niow-img.9a6ed025.svg",
+      "assets/product-delivery.96fb9ab4.svg",
+      "assets/mint-condition.4aaed3c8.svg",
+      "assets/minor.789513ea.svg",
+      "assets/visibale-damage.d49ce4b5.svg"
+    ]
+  },
+  "resources/js/views/NotFound.vue": {
+    "file": "assets/NotFound.f996df42.js",
+    "src": "resources/js/views/NotFound.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/NotFound.cd41e680.css"
+    ]
+  },
+  "resources/js/views/VariantsView.vue": {
+    "file": "assets/VariantsView.ff5f6813.js",
+    "src": "resources/js/views/VariantsView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/VariantsView.9f2d69bc.css"
+    ]
+  },
+  "resources/js/views/Admin.vue": {
+    "file": "assets/Admin.e8483a09.js",
+    "src": "resources/js/views/Admin.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/Admin.c7096609.css"
+    ]
+  },
+  "resources/js/views/PostsList.vue": {
+    "file": "assets/PostsList.30681fc2.js",
+    "src": "resources/js/views/PostsList.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/PostsList.9f2d69bc.css"
+    ]
+  },
+  "resources/js/views/ProductList.vue": {
+    "file": "assets/ProductList.a9cdc817.js",
+    "src": "resources/js/views/ProductList.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/ProductList.73879f7e.css"
+    ]
+  },
+  "resources/js/views/CategoryView.vue": {
+    "file": "assets/CategoryView.b8f47805.js",
+    "src": "resources/js/views/CategoryView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/CategoryView.0d70e350.css"
+    ]
+  },
+  "resources/js/views/BrandsView.vue": {
+    "file": "assets/BrandsView.31ffad84.js",
+    "src": "resources/js/views/BrandsView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/BrandsView.0d70e350.css"
+    ]
+  },
+  "resources/js/views/SizeView.vue": {
+    "file": "assets/SizeView.a42dc3bf.js",
+    "src": "resources/js/views/SizeView.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "css": [
+      "assets/SizeView.0d70e350.css"
+    ]
+  },
+  "resources/js/views/Orders.vue": {
+    "file": "assets/Orders.89319903.js",
+    "src": "resources/js/views/Orders.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_toggle-btn.0794e622.js"
+    ],
+    "css": [
+      "assets/Orders.dc46d5b8.css"
+    ]
+  },
+  "resources/js/views/LoginView.css": {
+    "file": "assets/LoginView.b75960e4.css",
+    "src": "resources/js/views/LoginView.css"
+  },
+  "resources/js/views/HomeLoggedInView.css": {
+    "file": "assets/HomeLoggedInView.dc46d5b8.css",
+    "src": "resources/js/views/HomeLoggedInView.css"
+  },
+  "resources/js/views/NotFound.css": {
+    "file": "assets/NotFound.cd41e680.css",
+    "src": "resources/js/views/NotFound.css"
+  },
+  "resources/js/views/SizeView.css": {
+    "file": "assets/SizeView.0d70e350.css",
+    "src": "resources/js/views/SizeView.css"
+  },
+  "resources/js/views/Admin.css": {
+    "file": "assets/Admin.c7096609.css",
+    "src": "resources/js/views/Admin.css"
+  },
+  "resources/js/views/PostsList.css": {
+    "file": "assets/PostsList.9f2d69bc.css",
+    "src": "resources/js/views/PostsList.css"
+  },
+  "resources/js/views/Orders.css": {
+    "file": "assets/Orders.dc46d5b8.css",
+    "src": "resources/js/views/Orders.css"
+  },
+  "resources/js/views/CategoryView.css": {
+    "file": "assets/CategoryView.0d70e350.css",
+    "src": "resources/js/views/CategoryView.css"
+  },
+  "resources/js/views/VariantsView.css": {
+    "file": "assets/VariantsView.9f2d69bc.css",
+    "src": "resources/js/views/VariantsView.css"
+  },
+  "resources/js/views/BrandsView.css": {
+    "file": "assets/BrandsView.0d70e350.css",
+    "src": "resources/js/views/BrandsView.css"
+  },
+  "resources/js/views/Shop.css": {
+    "file": "assets/Shop.e39795c3.css",
+    "src": "resources/js/views/Shop.css"
+  },
+  "resources/js/views/ProductList.css": {
+    "file": "assets/ProductList.73879f7e.css",
+    "src": "resources/js/views/ProductList.css"
+  },
+  "resources/js/views/ProductSingle.css": {
+    "file": "assets/ProductSingle.b4853b0a.css",
+    "src": "resources/js/views/ProductSingle.css"
+  },
+  "resources/js/views/PostView.css": {
+    "file": "assets/PostView.9f2d69bc.css",
+    "src": "resources/js/views/PostView.css"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.e1d2a9e2.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.d908354f.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/images/arrow-up-outline.svg": {
+    "file": "assets/SEE ALL.80899f14.svg",
+    "src": "resources/images/arrow-up-outline.svg"
+  },
+  "resources/images/product-new.svg": {
+    "file": "assets/niow-img.9a6ed025.svg",
+    "src": "resources/images/product-new.svg"
+  },
+  "resources/images/product-checked.svg": {
+    "file": "assets/gaver-img.662830c3.svg",
+    "src": "resources/images/product-checked.svg"
+  },
+  "resources/images/single-product-image.svg": {
+    "file": "assets/order-1.70fd5ca6.svg",
+    "src": "resources/images/single-product-image.svg"
+  },
+  "resources/images/sneaker-sell.svg": {
+    "file": "assets/SEE ALL.80899f14.svg",
+    "src": "resources/images/sneaker-sell.svg"
+  },
+  "resources/images/toggle-btn.svg": {
+    "file": "assets/Group.100864d6.svg",
+    "src": "resources/images/toggle-btn.svg"
+  }
+}

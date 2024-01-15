@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o,b as s}from"./app.67f4f754.js";const n={},_={class:"flex items-start justify-center not-found !min-h-[50vh]"},c=s("h1",{class:"font-[700] font-[TTCommons] text-[48px] text-[#767474]"},"Not found",-1),a=[c];function r(d,f){return e(),o("div",_,a)}const u=t(n,[["render",r]]);export{u as default};

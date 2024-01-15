@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,b as c}from"./app.67f4f754.js";const t={},_={class:"profile_page"},r=c("h1",null,"Profile page",-1),a=[r];function n(i,l){return o(),s("div",_,a)}const d=e(t,[["render",n]]);export{d as default};
